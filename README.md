@@ -20,7 +20,7 @@ Claude ведёт поиск работы целиком:
 **Claude (claude.ai / desktop):** Settings → Capabilities → Skills → Upload skill. Загрузи ZIP с папкой `job-hunter/`:
 
 ```bash
-git clone https://github.com/<you>/job-hunter-skill
+git clone https://github.com/azhimov/job-hunter-skill
 cd job-hunter-skill && zip -r job-hunter.zip job-hunter
 ```
 
