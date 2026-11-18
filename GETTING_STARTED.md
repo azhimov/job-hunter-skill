@@ -16,7 +16,7 @@ Settings → Capabilities → включить **Code execution and file creatio
 ## 3. Установить скилл
 
 ```bash
-git clone https://github.com/<you>/job-hunter-skill
+git clone https://github.com/azhimov/job-hunter-skill
 cd job-hunter-skill && zip -r job-hunter.zip job-hunter
 ```
 
